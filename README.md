@@ -3,5 +3,5 @@
 
 - 🌱 Currently learning HTML, CSS, JavaScript, NodeJs, postgresSQL, SQLite and a little bit about Elixir ;)
 - 📫 How to reach me: @Perazzamrb
-
+- 18/10 ~ New NLW ♥
 
