@@ -1,9 +1,5 @@
-<div align="center">
-  <h2> Hey you 😄 </h2>
-</div>
-<div align="center">
-  <h2>I'm a novice developer with a thirst for knowledge.</h2>
-</div>
+ <h2> Hey you 😄 </h2>
+ <h2>I'm a novice developer with a thirst for knowledge.</h2>
 
 <div align="center">
   <a href="https://github.com/Muvias">
