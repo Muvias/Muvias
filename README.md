@@ -1,5 +1,5 @@
  <h2> Hey you 😄 </h2>
- <h4>I'm a novice developer with a thirst for knowledge. Please visit my websit for more, link in description :) </h2>
+ <h4>I'm a novice developer with a thirst for knowledge. Please visit my websit for more ➝ https://muvias.github.io/Portfolio/ </h2>
  
 <div align="center">
   <a href="https://github.com/Muvias">
