@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muvias&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<h4>I never stopped learning to code, but didn't take good care of my GitHub profile, i know about that and i will try to find time to improve.</h4>
+<h4>I've never stopped my coding studies, although it seems like. I know that I've not been taking good care of my GitHub, but I'm gonna find some time to update it from now on.</h4>
  
 ##
  
