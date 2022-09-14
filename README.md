@@ -1,5 +1,5 @@
  <h2> Hey you 😄 </h2>
- <p>I'm a novice developer with thirst for knowledge. Please visit my websit for more ➝ https://muvias.github.io/Portfolio/ </p>
+ <p>I'm a novice developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
  
 <div align="center">
   <a href="https://github.com/Muvias">
