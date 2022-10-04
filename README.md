@@ -1,13 +1,6 @@
- <h2> Hey you 😄 </h2>
- <p>I'm a novice developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
- 
-<div align="center">
-  <a href="https://github.com/Muvias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muvias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muvias&layout=compact&langs_count=7&theme=dark"/>
-   </a>
-</div>
- 
+<h2> Hey you 😄 </h2>
+<p>I'm a novice developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
+  
 <p>I've never stopped my coding studies, although it seems like. I know that I've not been taking good care of my GitHub, but I'm gonna find some time to update it from now on.</p>
  
 ##
