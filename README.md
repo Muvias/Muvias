@@ -1,5 +1,5 @@
 <h2> Hey you 😄 </h2>
-<p>I'm a novice developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
+<p>I'm a junior developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
  
 <p>Every day i study a little of coding and english, trying to update my GitHub showing this.</p>
  
