@@ -3,7 +3,7 @@
  
 <p>Every day i study a little of coding and english, trying to update my GitHub showing this.</p>
 
-<p>Now i'm learning about Angular. </p>
+<p>Now i'm learning about Angular.</p>
  
 ##
  
