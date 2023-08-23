@@ -12,5 +12,6 @@
  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Vinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Vinicius-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="Vinicius-Node" height="30" width="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 </div>
