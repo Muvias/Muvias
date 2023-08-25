@@ -1,10 +1,10 @@
 ## Hey you 😄
 
-I'm a junior developer with thirst for knowledge. Please visit my websit for more ➝ [My Portfolio](https://vp-port-react.vercel.app/).
- 
+I'm a junior developer with thirst for knowledge. Please visit my websit for more ➝ <a href="https://vp-port-react.vercel.app/" target="_blank">My Portfolio</a>
+
 Every day i study a little of coding and english, trying to update my GitHub showing this.
 
-#### Last project: [Cine](https://cine2-muvias.vercel.app/)
+#### Last project: <a href="https://cine2-muvias.vercel.app/" target="_blank">Cine</a>
  
 ##
  
