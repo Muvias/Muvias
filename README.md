@@ -1,11 +1,14 @@
-<h2> Hey you 😄 </h2>
-<p>I'm a junior developer with thirst for knowledge. Please visit my websit for more ➝ https://vp-port-react.vercel.app/ </p>
+## Hey you 😄
+
+I'm a junior developer with thirst for knowledge. Please visit my websit for more ➝ [My Portfolio](https://vp-port-react.vercel.app/).
  
-<p>Every day i study a little of coding and english, trying to update my GitHub showing this.</p>
+Every day i study a little of coding and english, trying to update my GitHub showing this.
+
+#### Last project: [Cine](https://cine2-muvias.vercel.app/)
  
 ##
  
- <h3> Learning about: </h3>
+### Learning about:
 <div style="display: inline_block"><br>
  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
