@@ -4,7 +4,7 @@ I'm a junior developer with thirst for knowledge. Please visit my websit for mor
 
 Every day i study a little of coding and english, trying to update my GitHub showing this.
 
-#### Last project: <a href="https://lingo-muvias-projects.vercel.app" target="_blank">Lingo</a>
+#### Last project: <a href="https://snake-case.vercel.app/" target="_blank">SnakeCase</a>
  
 ##
  
